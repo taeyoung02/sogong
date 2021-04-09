@@ -1,2 +1,2 @@
 >블로그주소
-<http://taeyoung02.github.io>
+<https://taeyoung02.github.io/sogong/>
